@@ -1,4 +1,4 @@
-👋 Hello, I'm Josh, a Software Engineer with a passion for building and optimizing complex systems. With a career spanning 4 years, I have honed my skills to create robust and efficient solutions.
+👋 Hello, I'm Josh, a Software Engineer with a passion for building and optimizing complex systems. With a career spanning 6 years, I have honed my skills to create robust and efficient solutions.
 
 🚀 My technical expertise includes a wide array of technologies, and I'm particularly focused on mastering Node.js and TypeScript to stay at the cutting edge of web development.
 
