@@ -14,4 +14,4 @@ I'm a Software Engineer with over 5 years of experience designing scalable backe
 
 🤝 I’m open to collaboration, mentoring, and mission-driven work that pushes boundaries in engineering and innovation.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) • ✉️ olukoyajoshua72@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/joshua-olukoya-6033) • ✉️ olukoyajoshua72@gmail.com
