@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Joshua Olukoyа
+# 👋 Hi, I’m Josh
 
 I'm a Software Engineer with over 5 years of experience designing scalable backend systems, architecting distributed applications, and building AI-powered developer tools. I bring a deep focus on performance, reliability, and developer experience.
 
